@@ -1,10 +1,12 @@
 body {
   text-align: center;
   background-color: #011F3F;
+  font-family: 'Press Start 2P', cursive;
 }
 
+
 #level-title {
-  font-family: 'Press Start 2P', cursive;
+  
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
@@ -50,4 +52,10 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+.credits {
+  padding: 3rem 15rem;
+  text-align: center;
+  color: whitesmoke;
 }
